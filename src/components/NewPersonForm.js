@@ -113,7 +113,9 @@ class NewPersonForm extends Component {
 
     render() {
         return (
+            
             <div className="container">
+                <br/>
                 <form>
                     <div className="form-group">
                         <label>First Name</label>
